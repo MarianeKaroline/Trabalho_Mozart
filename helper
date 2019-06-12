@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo cp executeAsm /usr/local/bin
+sudo chmod +x /usr/local/bin/executeAsm
